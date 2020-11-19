@@ -1,9 +1,10 @@
 <template>
   <div>
-    14235346
+    sgsrhtdjh
   </div>
   <router-view/>
 </template>
 
 <style>
+  @import "assets/css/base.css";
 </style>
